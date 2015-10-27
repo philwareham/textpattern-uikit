@@ -1,0 +1,11 @@
+# http://docs.travis-ci.com
+
+language: node_js
+node_js:
+  - "0.12"
+  - "4"
+before_install:
+  - npm install -g bower
+before_script:
+  - bower install
+sudo: false
