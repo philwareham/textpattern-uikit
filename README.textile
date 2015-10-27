@@ -6,11 +6,37 @@ Textpattern templates for use with "UIkit":http://getuikit.com.
 
 h2. Requirements
 
-TO DO.
+* "Node.js":http://nodejs.org/ >=0.10.0
+* "Grunt":http://gruntjs.com/ ~0.4.0
+* "Bower":http://bower.io/ >=1.0.0
+
+Environment must consist of:
+
+* Apache 2
+* PHP >=5.3
+* MySQL >=5
+* Textpattern CMS 4.6.0-dev
+* Unix-like OS, e.g. Linux or Mac OS
 
 h2. Setup
 
-TO DO.
+h3. Installing required tools
+
+The project uses "Grunt":http://gruntjs.com/ to run tasks and "Sass":http://sass-lang.com/ for CSS pre-processing. First make sure you have base dependencies installed: "Node.js":http://nodejs.org/, "Grunt":http://gruntjs.com/ and "Bower":http://bower.io/. You can install Node using the "installer":https://nodejs.org and the rest with npm:
+
+bc. $ npm install -g bower grunt-cli
+
+Consult the tools' documentation for more instructions. You might need to use @sudo npm install -g bower grunt-cli@ instead when installing on certain Unix-based systems.
+
+h3. Installing dependencies
+
+After you have the base dependencies taken care of, you can install the project's dependencies. Navigate to the project's directory, and run the dependency managers:
+
+bc. $ cd textpattern-uikit
+$ npm install
+$ bower install
+
+*npm* installs Node modules for Grunt and *bower* manages client-side scripts. You might need to use @sudo npm install@ instead when installing on certain Unix-based systems. The project will also require the normal git, Apache, MySQL and PHP in order to run Textpattern. All requirements must be added to your path variable.
 
 h2. Building
 
@@ -26,4 +52,4 @@ TO DO.
 
 h2. License
 
-Licensed under "MIT license":https://github.com/twbs/bootstrap/blob/master/LICENSE except Textpattern templates, which are licensed under GPLv2 license.
+Licensed under "MIT license":https://github.com/uikit/uikit/blob/master/LICENSE.md except Textpattern templates, which are licensed under GPLv2 license.
