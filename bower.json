@@ -1,7 +1,0 @@
-{
-  "name": "textpattern-uikit",
-  "version": "0.0.0",
-  "dependencies": {
-    "uikit": "~2"
-  }
-}
