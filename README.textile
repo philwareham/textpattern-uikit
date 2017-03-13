@@ -1,5 +1,7 @@
 h1. Textpattern UIkit Templates
 
+!https://badges.greenkeeper.io/philwareham/textpattern-uikit.svg(Greenkeeper badge)!:https://greenkeeper.io/
+
 !https://travis-ci.org/philwareham/textpattern-uikit.svg?branch=master!:https://travis-ci.org/philwareham/textpattern-uikit !https://david-dm.org/philwareham/textpattern-uikit/dev-status.svg(devDependency Status)!:https://david-dm.org/philwareham/textpattern-uikit#info=devDependencies
 
 Demo TO DO.
