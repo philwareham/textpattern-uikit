@@ -10,15 +10,19 @@
   },
   "devDependencies": {
     "autoprefixer": "7.1.4",
+    "cssnano": "4.0.0-rc.2",
     "grunt": "~1.0",
     "grunt-cli": "~1",
     "grunt-concurrent": "2.3.1",
-    "grunt-contrib-uglify": "2.2.1",
+    "grunt-contrib-uglify": "3.0.1",
     "grunt-contrib-watch": "1.0.0",
     "grunt-replace": "1.0.1",
     "grunt-sass": "2.0.0",
+    "grunt-sass-lint": "0.2.3",
+    "load-grunt-tasks": "~3.5",
     "grunt-shell": "2.1.0",
-    "node-sass": "4.5.3"
+    "node-sass": "4.5.3",
+    "sass-lint": "1.11.1"
   },
   "dependencies": {
     "uikit": "~2"
