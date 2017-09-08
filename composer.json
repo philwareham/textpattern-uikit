@@ -1,6 +1,8 @@
 {
-  "require": {
-    "textpattern/lock": "4.6.*@dev",
-    "rah/rah_flat": "*@dev"
-  }
+  "name": "philwareham/textpattern-uikit",
+  "description": "Textpattern templates based on UIkit.",
+  "license": [
+    "MIT",
+    "GPL-2.0"
+  ]
 }
