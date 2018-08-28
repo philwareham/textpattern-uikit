@@ -26,7 +26,7 @@
     "sass-lint": "1.12.1"
   },
   "dependencies": {
-    "uikit": "3.0.0-rc.6"
+    "uikit": "3.0.0-rc.12"
   },
   "browserslist": [
     "> 0.5%",
