@@ -1,7 +1,7 @@
 # Textpattern UIkit Templates
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/philwareham/textpattern-uikit.svg)](https://greenkeeper.io/)
-[![Build Status](https://img.shields.io/travis/philwareham/textpattern-uikit/master.svg)](https://travis-ci.org/philwareham/textpattern-uikit)
+[![Greenkeeper](https://badges.greenkeeper.io/philwareham/textpattern-uikit.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/philwareham/textpattern-uikit/master.svg)](https://travis-ci.org/philwareham/textpattern-uikit)
 
 Demo TO DO.
 
